@@ -8,3 +8,4 @@ hello lee  hello git
 hello lee  hello git  master test
 hello lee  hello git
 hello lee  hello git
+hello lee  hello git hot-fix test
